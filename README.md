@@ -64,7 +64,7 @@ This site is deployed via **[your hosting platform]** and automatically updates 
 
 ## Contact
 
-- **Email:** your-email@example.com
+- **Email:** logeshmg432006@example.com
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [github.com/Logesh-bruce](https://github.com/Logesh-bruce)
 
